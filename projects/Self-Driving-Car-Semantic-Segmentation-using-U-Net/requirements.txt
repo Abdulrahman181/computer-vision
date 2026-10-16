@@ -1,0 +1,9 @@
+# Runtime dependencies. TensorFlow is intentionally left as a bounded range because
+# CPU/GPU wheels differ by platform; install the wheel appropriate for your system.
+tensorflow>=2.15,<2.19
+streamlit>=1.32,<2
+opencv-python-headless>=4.8,<5
+numpy>=1.24,<2.1
+pillow>=10,<12
+pandas>=2,<3
+matplotlib>=3.7,<4

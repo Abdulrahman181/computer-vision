@@ -1,0 +1,28 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# Local datasets and generated artifacts (Cityscapes is not committed).
+data/
+dataset/
+cityscapes/
+cityscapes_data/
+artifacts/
+*.keras
+*.h5
+*.ckpt
+*.pt
+*.tflite
+*.avi
+*.mp4
+*.log
+
+# Local editor and OS files.
+.vscode/
+.idea/
+.DS_Store

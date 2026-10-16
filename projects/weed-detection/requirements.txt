@@ -1,0 +1,5 @@
+Pillow>=10.0,<12
+PyYAML>=6.0,<7
+ultralytics>=8.2,<9
+matplotlib>=3.7,<4
+pandas>=2.0,<3

@@ -1,0 +1,22 @@
+# Local datasets and ad-hoc prediction images
+train/
+test/
+temp.jpg
+*.jpg
+*.jpeg
+*.png
+*.webp
+
+# Model artifacts and notebook/runtime output
+artifacts/
+*.keras
+*.h5
+.ipynb_checkpoints/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+
+# Virtual environments and local configuration
+.venv/
+venv/
+.env

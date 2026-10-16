@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.venv/
+venv/
+.env
+.DS_Store
+
+# Data and generated artifacts
+data/
+artifacts/
+runs/
+*.pt
+*.onnx
+*.safetensors
+*.cache
+
+# Notebook checkpoints and transient exports
+.ipynb_checkpoints/
+*.html
