@@ -1,7 +1,7 @@
 # Engineering review — pest-detection
 
 **Repository:** `Abdulrahman181/pest-detection`
-**Scope:** the repository at `/home/ubuntu/github_priority/pest-detection` only
+**Scope:** the repository at `the original project checkout/pest-detection` only
 **Review date:** 2026-10-14
 **Baseline:** one `pest-detection.ipynb` file, with no dataset, weights, requirements file, tests, or README.
 
